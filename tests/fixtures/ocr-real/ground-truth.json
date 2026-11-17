@@ -1,0 +1,74 @@
+[
+  {
+    "fileName": "WhatsApp Image 2026-10-07 at 11.50.13.jpeg",
+    "expectedTitle": "CATECISMO DA IGREJA CATÓLICA",
+    "expectedSubtitle": "NOVÍSSIMA EDIÇÃO DE ACORDO COM O TEXTO OFICIAL EM LATIM",
+    "expectedAuthor": "",
+    "expectedSecondaryText": "Emblemas e brasão pontifício com chaves de São Pedro",
+    "correctOrientationDegrees": 0,
+    "visualObstacles": "Fundo escuro de estofado/sofá com perspectiva leve; tonalidades amarelas e laranjas com corte diagonal; marcador de página no canto superior."
+  },
+  {
+    "fileName": "WhatsApp Image 2026-10-07 at 11.50.14 (1).jpeg",
+    "expectedTitle": "O MEU CAFÉ ESFRIOU E EU LEMBREI DA GENTE",
+    "expectedSubtitle": "",
+    "expectedAuthor": "Lucas Lopes",
+    "expectedSecondaryText": "Logo BestSeller no livro de fundo, ilustração de cozinha",
+    "correctOrientationDegrees": 270,
+    "visualObstacles": "Foto girada 90 graus no sentido horário (exige rotação de 270° CW ou 90° CCW); outro livro por baixo visível nas bordas; piso de cerâmica e pés visíveis no fundo."
+  },
+  {
+    "fileName": "WhatsApp Image 2026-10-07 at 11.50.14 (2).jpeg",
+    "expectedTitle": "REDESCOBRINDO SUA BÍBLIA",
+    "expectedSubtitle": "De Gênesis a Apocalipse, uma análise objetiva de cada livro da Bíblia para você conhecer, aplicar e ensinar as verdades contidas na Palavra de Deus",
+    "expectedAuthor": "ANDRÉ COELHO",
+    "expectedSecondaryText": "Prefácio RUSSELL SHEDD / 3ª EDIÇÃO Revista e Ampliada / Referências de versículos espalhadas pelo fundo",
+    "correctOrientationDegrees": 270,
+    "visualObstacles": "Foto girada 90 graus no sentido horário; múltiplos textos e referências bíblicas espalhadas geometricamente na capa; livro de fundo e piso visíveis."
+  },
+  {
+    "fileName": "WhatsApp Image 2026-10-07 at 11.50.14.jpeg",
+    "expectedTitle": "Desculpe o exagero, mas não sei sentir pouco",
+    "expectedSubtitle": "",
+    "expectedAuthor": "GEFFO PINHEIRO",
+    "expectedSecondaryText": "@relicariodeexp / astral cultural",
+    "correctOrientationDegrees": 270,
+    "visualObstacles": "Foto girada 90 graus no sentido horário; fundo preto com ilustrações de ramos de flores rosas; livros sobrepostos no fundo."
+  },
+  {
+    "fileName": "WhatsApp Image 2026-10-07 at 11.50.15 (1).jpeg",
+    "expectedTitle": "BNCC",
+    "expectedSubtitle": "BASE NACIONAL COMUM CURRICULAR",
+    "expectedAuthor": "Casemiro de Medeiros Campos",
+    "expectedSecondaryText": "Uma Reflexão para Além da Definição Normativa / Caminhar",
+    "correctOrientationDegrees": 270,
+    "visualObstacles": "Foto girada 90 graus no sentido horário; tipografia branca muito grande 'BNCC' sobre fundo roxo; faixa lateral amarela com o nome do autor."
+  },
+  {
+    "fileName": "WhatsApp Image 2026-10-07 at 11.50.15 (2).jpeg",
+    "expectedTitle": "Leio, Escrevo e Calculo",
+    "expectedSubtitle": "Aprova+ Matemática",
+    "expectedAuthor": "",
+    "expectedSecondaryText": "Elaborado de acordo com a BNCC / Livro de Orientações para o Professor / 3º ano / Editora LIVRO IDEAL",
+    "correctOrientationDegrees": 0,
+    "visualObstacles": "Orientação vertical normal (0°); capa didática extremamente poluída com foto de aluna, espiral de caderno, desenhos de sala de aula e múltiplos selos."
+  },
+  {
+    "fileName": "WhatsApp Image 2026-10-07 at 11.50.15.jpeg",
+    "expectedTitle": "O MILAGRE DA MANHÃ",
+    "expectedSubtitle": "O SEGREDO PARA TRANSFORMAR SUA VIDA (ANTES DAS 8 HORAS)",
+    "expectedAuthor": "HAL ELROD",
+    "expectedSecondaryText": "BestSeller",
+    "correctOrientationDegrees": 270,
+    "visualObstacles": "Foto girada 90 graus no sentido horário; ilustração de raios de sol radiantes com linhas que cortam o texto; fonte azul clara e fina sobre círculo amarelo com baixo contraste."
+  },
+  {
+    "fileName": "WhatsApp Image 2026-10-07 at 11.50.16.jpeg",
+    "expectedTitle": "Entre Laços Matemática",
+    "expectedSubtitle": "Ensino Fundamental Anos Iniciais",
+    "expectedAuthor": "JOAMIR SOUZA, ANGÉLICA REGHIN",
+    "expectedSecondaryText": "Livro de Práticas e Acompanhamento da Aprendizagem / PNLD 2023 / FTD / 3",
+    "correctOrientationDegrees": 0,
+    "visualObstacles": "Orientação vertical normal (0°); título com letras estilizadas e entrelaçadas em cores diferentes; assinatura a lápis riscada sobre a capa; piso áspero de cimento no fundo."
+  }
+]
